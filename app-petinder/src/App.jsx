@@ -7,7 +7,7 @@ import DemonstrationForm from "./pages/demonstration/demonstration"
 import Initial from "./pages/initial/initial";
 import Forms from "./pages/forms/forms";
 import Teste from "./pages/Teste";
-import Config from "./pages/config/Config";
+import Config from "./pages/config/Config.jsx";
 import HomeOng from "./pages/ong/home/home";
 
 import HomeContent from "./pages/ong/home/HomeContent";
@@ -16,8 +16,6 @@ import Dashboard from "./pages/ong/home/Dashboard";
 import PetsContent from "./pages/ong/home/PetsContent";
 import Configuracao from "./pages/ong/home/Configuracao";
 import ConfigSeguranca from "./pages/ong/home/ConfigSeguranca";
-// import Configuracao from "./pages/config/config";
-
 
 const App = () => {
     return (
